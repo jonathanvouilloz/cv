@@ -2,7 +2,7 @@ import React from 'react';
 
 const Experience = ({ data }) => (
   <section>
-    <h1 className="section-header">Experience</h1>
+    <h1 className="section-header">Experience / Education</h1>
     {data &&
       data.map((item, i) => (
         <article className="my-5" key={`${item.company}-${i}`}>

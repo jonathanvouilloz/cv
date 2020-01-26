@@ -6,22 +6,19 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    title: `Jonathan Vouilloz | Développeur`,
+    author: `Jonathan Vouilloz`,
+    description: `Jeune étudiant en cours de formation à la Haute école de Gestion de Genève, je suis curieux des nouvelles technologies et aime découvrir les dernières nouveautés concernant les technologies web. Je suis également actif avec mon club de badminton ou je m'occupe du site et de la rédaction des articles.`,
+    siteUrl: `https://jonathanvouilloz.ch/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: `Jon_Praxie`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Jonathan Vouilloz | Développeur`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,

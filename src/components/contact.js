@@ -39,7 +39,7 @@ const Contact = ({ field, value }) => (
     {field === 'location' && (
       <>
         <LocationIcon className="contact-icon" />
-        <span className="contact-link">{value}</span>
+        <a className="contact-link">{value}</a>
       </>
     )}
   </span>
