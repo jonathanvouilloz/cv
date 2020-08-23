@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-main {
+.main {
     background-color: #ffffe8;
     font-size: large;
     margin: 35px 450px 55px 450px;
@@ -12,6 +12,8 @@ main {
 
 .title {
     text-align: center;
+    font-size: 1.5em;
+    font-weight: bolder;
 }
 
 
