@@ -21,7 +21,7 @@ const History = () => (
     <p>Le jeune homme était insupporté de sa propre décision, il cherchait, en vain et en larmes, d’autres solutions, explorant ses rêves, sans espoir, dans les derniers instants qu’il lui restait. </p><br />
     <p>Il était temps. </p><br />
     <p>L’ombre qu’il représentait se leva et laissa ce pourquoi il était venu, seul. Il ne put s'y résoudre à y toucher. </p><br />
-    <p>Au moment de s'en aller, se retournant pour une dernière fois, il aperçut une goutte d’eau s’échapper de l’enveloppe charnelle de l’assiette. Il espéra de tout son cœur que cette goutte ne soit que l’une de celles qui coulèrent sur sa joue. </p><br />
+    <p>Au moment de s'en aller, se retournant pour une dernière fois, il aperçut une goutte d’eau s’échapper de l’enveloppe charnelle du couvert. Il espéra de tout son cœur que cette goutte ne soit que l’une de celles qui coulaient sur sa joue. </p><br />
     <br />
 Fin (vraiment ?)
     <br />
