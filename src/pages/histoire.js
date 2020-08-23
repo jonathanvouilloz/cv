@@ -1,7 +1,7 @@
 import React from 'react';
 import './histoire.css';
 
-const Home = () => (
+const History = () => (
   <div class="main">
     <h2>Des Illusions</h2>
     <p>
@@ -26,4 +26,4 @@ Fin (vraiment ?)
   </div>
 );
 
-export default Home;
+export default History;
