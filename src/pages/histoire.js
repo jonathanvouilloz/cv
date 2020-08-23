@@ -1,5 +1,6 @@
 import React from 'react';
 import './histoire.css';
+import '../histoire.css';
 
 const History = () => (
   <div class="main">
