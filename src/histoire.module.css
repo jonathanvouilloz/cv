@@ -1,22 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-html {
-    background-color: #ffffe8   ;
+main {
+    background-color: #ffffe8;
+    font-size: large;
+    margin: 35px 450px 55px 450px;
 }
 
-.main {
-    background-color: #ffffe8   ;
-    margin: 35px 450px 55px 450px;
-    font-size: large;
+.paragraph {
     line-height: 1.8em;
 }
 
 .title {
     text-align: center;
-}
-
-p {
-    
 }
 
 
