@@ -1,9 +1,10 @@
 import React from 'react';
-import '../histoire.css';
+import containerStyles from "../histoire.module.css"
+
 
 const History = () => (
-  <div class="main">
-    <h2>Des Illusions</h2>
+  <div className={containerStyles.main}>
+    <h2 className={containerStyles.title}>Des Illusions</h2>
     <p>
       C'est l'histoire d'un homme qui adorait manger, après plusieurs mésaventures qui lui avaient fait perdre peu à peu son grain de folie, il ne souhaitait plus que des choses simples dans sa vie, même le simple fait de se nourrir était devenu quelque chose d'éprouvant pour lui. </p>
     <p>Il avait découvert dans un petit restaurant sympa qu'il fréquentait depuis trois ans un plat qui lui semblait tout bonnement incroyable. Il était composé de tout ce qu’il y avait de plus classique mais la façon dont il était décoré le laissait perplexe. Ce mets d’apparence ordinaire poussa le jeune homme à le découvrir tous ses aspects bien qu'il ne fût pas du genre à se laisser tenter par l’inconnu. </p>

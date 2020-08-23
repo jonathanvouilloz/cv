@@ -7,14 +7,15 @@ html {
     margin: 35px 450px 55px 450px;
     font-family: 'Roboto', sans-serif;
    font-size: large;
+   line-height: 1.8em;
 }
 
-h2 {
+.title {
     text-align: center;
 }
 
 p {
-    line-height: 1.8em;
+    
 }
 
 
