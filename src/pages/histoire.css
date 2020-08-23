@@ -3,6 +3,7 @@ html {
 }
 
 .main {
+    background-color: #ffffe8   ;
     margin: 35px 450px 55px 450px;
     font-family: 'Roboto', sans-serif;
    font-size: large;
