@@ -81,9 +81,6 @@
           "name": "Gatsby"
         },
         {
-          "name": "Next"
-        },
-        {
           "name": "Bulma"
         }
       ]
@@ -98,9 +95,6 @@
         },
         {
           "name": "Mongodb"
-        },
-        {
-          "name": "Firebase"
         },
         {
           "name": "Contentful"
@@ -167,6 +161,12 @@
       "name": "Application mobile SESF",
       "company": "SESF",
       "description": "Recherche et développement d'une application mobile pour la SESF. Solution permettant la gestion de carte NFC pour les joueurs esports inscrits sur la plateforme SESF. Projet réalisé pour le GREP de la Haute École de Gestion, 3ème année."
+    },
+    {
+      "name": "Application de comptabilité CPV - Kinit",
+      "company": "Personel",
+      "description": "Application permettant la gestion de la comptabilité pour des colonies de vacances.",
+      "link": "https://github.com/jonathanvouilloz/kinit"
     }
   ],
   "fullname": "Jonathan Vouilloz"
